@@ -31,3 +31,12 @@ button{
 label{
     font-size: 25px;
 }
+img{
+    width: 20px;
+}
+.genderBlock{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
